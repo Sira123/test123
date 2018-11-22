@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="276" started-at="2018-11-22T06:03:30Z" finished-at="2018-11-22T06:03:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="276" started-at="2018-11-22T06:03:30Z" finished-at="2018-11-22T06:03:30Z">
+      <class name="Demo1.Sample1">
+        <test-method status="PASS" signature="testAA()[pri:1, instance:Demo1.Sample1@4c70fda8]" name="testAA" duration-ms="88" started-at="2018-11-22T11:33:30Z" finished-at="2018-11-22T11:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAA -->
+        <test-method status="PASS" signature="testCC()[pri:2, instance:Demo1.Sample1@4c70fda8]" name="testCC" duration-ms="24" started-at="2018-11-22T11:33:30Z" finished-at="2018-11-22T11:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCC -->
+        <test-method status="PASS" signature="testBB()[pri:3, instance:Demo1.Sample1@4c70fda8]" name="testBB" duration-ms="15" started-at="2018-11-22T11:33:30Z" finished-at="2018-11-22T11:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBB -->
+      </class> <!-- Demo1.Sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
